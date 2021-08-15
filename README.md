@@ -1,9 +1,8 @@
 # Cairor
 A hack client for Minecraft pe. Simple but effective!
 
-So netease, fuck you!
 
-# How to Use ?
+# How to use the client.
 - FW: Move forward 4 blocks.
 - UP: Move up 10 blocks.
 - DN: Move down 10 blocks.
